@@ -1,0 +1,53 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #32facb;
+    font-size: 50px;
+    border-radius: 50px;
+    font-family: 'Comic Sans MS';
+    font-weight: 400;
+    text-align: center;
+    color: #deef99;
+    padding: 20px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 50px;
+}
+
+.grid img{
+    border: 2px solid ;
+    border-radius: 50px;
+    background-attachment: #7070bb;
+}
+
+.origami{
+    border: solid  #848dac;
+    border-radius: 75px;
+    width: 310px;
+    font-size: 20px;
+    font-family: 'Comic Sans MS';
+    font-weight: 400; 
+    background-color: #159278;
+    color: #0110ab;
+    padding: 10px;
+    margin: 10px;
+   
+}
+
+body{
+    background-color: #b87fc3;
+    margin: 0px;
+}
+
+.body{
+    background-color: #f4c5d1;
+    border-radius: 35px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    color: #fc88cf;
+    
+}
